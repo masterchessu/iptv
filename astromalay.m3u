@@ -13,6 +13,8 @@ http://50.7.161.82:8277/streams/d/AnimalPlanet/playlist.m3u8
 http://50.7.161.82:8277/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 ,HGTV
 http://50.7.161.82:8277/streams/d/HGTV/playlist.m3u8
+#EXTINF:0, ASTRO ARENA HD MY
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" ,TV1 HD 
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2 
